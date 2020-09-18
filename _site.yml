@@ -7,4 +7,6 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
+    - text: "CV"
+      href: cv.html
     
