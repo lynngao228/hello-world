@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-Studying data science at UCI.
+Hello! I am a student studying data science at UCI.
