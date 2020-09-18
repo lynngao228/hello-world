@@ -2,3 +2,7 @@
 title: "Resume"
 ---
 
+```{r,echo=FALSE}
+knitr::include_graphics("./Lynn_Gao_Resume.pdf", auto_pdf = TRUE)
+```
+
