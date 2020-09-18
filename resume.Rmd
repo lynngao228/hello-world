@@ -1,5 +1,10 @@
 ---
 title: "Resume"
+output:
+  html_document:
+    css: styles.css
+    fig_width: 7
+    fig_height: 6
 ---
 
 ```{r image-ref-for-in-text, echo = FALSE, message=FALSE, fig.align='center', out.width='0.75\\linewidth', fig.pos='H'}
