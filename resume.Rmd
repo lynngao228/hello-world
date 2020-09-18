@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-```{r,echo=FALSE}
+```{r,out.width="0.3\\linewidth", include=TRUE, fig.align="center",echo=FALSE}
 knitr::include_graphics("./Lynn_Gao_Resume.pdf", auto_pdf = TRUE)
 ```
 
